@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "850073152307",
+    "project_id": "vedioupload-9bcb4",
+    "storage_bucket": "vedioupload-9bcb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850073152307:android:c289879550fd8d74b86c46",
+        "android_client_info": {
+          "package_name": "com.taskwelness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850073152307-3dlvm4fj2q4ql8i1nns9ose4bpg761i9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMlWaTo7vuoNZQL3aFf2VdzbLLjhkBdrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850073152307-3dlvm4fj2q4ql8i1nns9ose4bpg761i9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

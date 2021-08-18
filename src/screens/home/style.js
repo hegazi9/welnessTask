@@ -36,6 +36,17 @@ const styles = StyleSheet.create({
     width: '80%',
     marginLeft: -150,
   },
+  loading: {
+    alignItems: 'center',
+    backgroundColor : '#00000020',
+    top : 0 , 
+    position : 'absolute' ,
+    bottom : 0 ,
+    right : 0 ,
+    left : 0 ,
+    zIndex : 2 ,
+    justifyContent: 'center',
+  },
   center: {
     alignItems: 'center',
     justifyContent: 'center',
@@ -52,6 +63,11 @@ const styles = StyleSheet.create({
   icon: {
     color: colors.orange,
     fontSize: 40,
+  },
+  txt: {
+    fontSize: 18,
+    color: colors.white,
+    fontWeight: 'bold',
   },
 });
 

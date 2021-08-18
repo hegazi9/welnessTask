@@ -14,6 +14,8 @@ target 'taskWelness' do
 
   pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
 
+  pod 'RNThumbnail', :path => '../node_modules/react-native-thumbnail'
+
   target 'taskWelnessTests' do
     inherit! :complete
     # Pods for testing
