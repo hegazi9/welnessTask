@@ -30,6 +30,8 @@ const styles = StyleSheet.create({
   row: {
     flexDirection: 'row',
     padding: 10,
+    zIndex : 2 ,
+
   },
   video: {
     aspectRatio: 1,
@@ -38,13 +40,13 @@ const styles = StyleSheet.create({
   },
   loading: {
     alignItems: 'center',
-    backgroundColor : '#00000020',
+    backgroundColor : colors.black,
     top : 0 , 
     position : 'absolute' ,
     bottom : 0 ,
     right : 0 ,
     left : 0 ,
-    zIndex : 2 ,
+    zIndex : 1 ,
     justifyContent: 'center',
   },
   center: {
